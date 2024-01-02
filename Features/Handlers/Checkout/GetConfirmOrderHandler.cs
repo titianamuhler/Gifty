@@ -29,7 +29,6 @@ namespace Grand.Web.Features.Handlers.Checkout
         {
             var model = new CheckoutConfirmModel();
             //terms of service
-            model.TermsOfServiceOnOrderConfirmPage = _orderSettings.TermsOfServiceOnOrderConfirmPage;
             //min order amount validation
             var minOrderTotalAmountOk = await _mediator.Send(new ValidateShoppingCartTotalAmountCommand() { Customer = request.Customer, Cart = request.Cart });
             if (!minOrderTotalAmountOk)
