@@ -1,7 +1,7 @@
 
 # Gifty: Promo Code Aggregator
 
-Gifty is an application designed to simplify your online shopping experience by aggregating promo codes from the internet. Say goodbye to manually searching for discounts and promotions – Gifty does the work for you. Whether you're shopping for clothing, electronics, or any other product, Gifty ensures that you never miss out on a great deal.
+Gifty is an application designed to simplify your online shopping experience by aggregating promo codes from the internet. Say goodbye to manually searching for discounts and promotions â€“ Gifty does the work for you. Whether you're shopping for clothing, electronics, or any other product, Gifty ensures that you never miss out on a great deal.
 
 ## Features
 
@@ -43,7 +43,7 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
