@@ -49,4 +49,4 @@ This project is licensed under the MIT License
 
 -   Special thanks to the open-source community for providing valuable resources and inspiration.
 
-Happy shopping with Gifty! ????
+Happy shopping with Gifty 🛍️✨
