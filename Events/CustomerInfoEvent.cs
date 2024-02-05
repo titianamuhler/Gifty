@@ -9,7 +9,6 @@ namespace Grand.Web.Events
 {
     public class CustomerInfoEvent : INotification
     {
-        public Customer Customer { get; set; }
         public CustomerInfoModel Model { get; set; }
         public IFormCollection Form { get; set; }
         public IList<CustomAttribute> CustomerAttributes { get; set; }
